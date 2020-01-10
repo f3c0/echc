@@ -1,5 +1,5 @@
 {application, echc,
- [{description, "An OTP application"},
+ [{description, "Simple cache server"},
   {vsn, "0.1.0"},
   {registered, []},
   {mod, {echc_app, []}},
